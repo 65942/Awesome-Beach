@@ -2,8 +2,17 @@
 List of software that I like
 
 ## Contents
+- [Android Apps](#android-apps)
 - [Communication](#communication)
+- [Discord Mods](#operating-systems)
 - [Operating Systems](#operating-systems)
+
+## Android Apps
+- [NewPipe](https://newpipe.net/) - Lghtweight, privacy friendly Youtube client
+- [NewpipeSponsorBlock](https://github.com/gilbsgilbs/NewPipeSponsorBlock) - NewPipe fork with Sponsorblock
+- [Aurora Store](https://auroraoss.com) - Open source front-end for Google Play Store
+- [Fdroid](https://f-droid.org/) - Open source app store for Android
+- [Neo Store](https://github.com/NeoApplications/Neo-Store) - Fdroid client with a nicer UI
 
 ## Communication
 - [Signal](https://www.signal.org/) - Private, encrypted messaging and VOIP app similar to iMessage
