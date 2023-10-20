@@ -3,6 +3,7 @@ List of software that I like
 
 ## Contents
 - [Android Apps](#android-apps)
+- [Android Apps](#ios-apps)
 - [Communication](#communication)
 - [Discord Mods](#operating-systems)
 - [Operating Systems](#operating-systems)
@@ -13,6 +14,12 @@ List of software that I like
 - [Aurora Store](https://auroraoss.com) - Open source front-end for Google Play Store
 - [Fdroid](https://f-droid.org/) - Open source app store for Android
 - [Neo Store](https://github.com/NeoApplications/Neo-Store) - Fdroid client with a nicer UI
+- [Tachiyomi](https://tachiyomi.org/) - The best manga and comic reader for Android
+- [FUTO Voice](https://voiceinput.futo.org/) Open source, offline voice input
+
+## iOS Apps
+- [Paperback](https://paperback.moe/) - The best manga and comic reader for iOS
+- [Panels](https://panels.app/) - Non-free manga and comic reader that fits iOS UX and has a unique paneling system
 
 ## Communication
 - [Signal](https://www.signal.org/) - Private, encrypted messaging and VOIP app similar to iMessage
